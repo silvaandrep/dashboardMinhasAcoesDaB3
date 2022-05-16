@@ -1,5 +1,5 @@
 ---
-title: "Minhas ações"
+title: "Meu Dashboard com as Minhas ações"
 output: 
   flexdashboard::flex_dashboard:
     orientation: rows
